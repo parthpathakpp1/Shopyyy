@@ -47,14 +47,11 @@ Start the server
 ```
 
 
-## Tech Stack
-
-**Client:** React
-
-**Server:** Node , Express
-
-**Database:** MongoDB
-
+# Tech Stack Used
+- [React](https://react.dev/) - The library for web and native user interfaces
+- [NodeJS](https://nodejs.org/en): It is an open-source, cross-platform JavaScript runtime environment.
+- [Express](https://expressjs.com/): Fast, unopinionated, minimalist web framework for Node.js.
+- [MongoDB](https://www.mongodb.com/): Non SQL Database . 
 
 ## Screenshots
 
@@ -68,4 +65,5 @@ Start the server
 https://user-images.githubusercontent.com/85991449/230636567-19d29849-43fb-4cbf-beeb-1aab617b2732.mp4
 
 
-
+# Support
+Do give us a ⭐️ for showing your support...............

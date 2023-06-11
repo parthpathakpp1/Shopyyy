@@ -3,6 +3,14 @@
 
 Shopyyy is a Full Stack Ecommerce Website . Where you can buy products and also sell products by becoming a seller . 
 
+<div align="center">
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<img src="https://forthebadge.com/images/badges/uses-brains.svg" />
+<img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg" />
+  <br>
+   <img src="https://img.shields.io/github/license/PiyushKalyanpy/GyanaGuru?style=for-the-badge" />
+   </div>
+
 ## Installation
 
 Install my-project with npm

@@ -53,7 +53,7 @@ Start the server
 
 **Server:** Node , Express
 
-**Database** MongoDB
+**Database:** MongoDB
 
 
 ## Screenshots

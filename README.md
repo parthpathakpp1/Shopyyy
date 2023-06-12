@@ -11,7 +11,10 @@ Shopyyy is a Full Stack Ecommerce Website . Where you can buy products and also 
    <img src="https://img.shields.io/github/license/PiyushKalyanpy/GyanaGuru?style=for-the-badge" />
    </div>
 
-## Installation
+## 🔖About
+Shopyyy is an e-commerce website which aims to provide seamless experience to both users and sellers . It has very friendly UI which can be easily understable by anyone who is doing online shopping for the first time . 
+
+## 💻Installation
 
 Install my-project with npm
 
@@ -20,7 +23,7 @@ Install my-project with npm
   npm install
 ```
     
-## Run Locally
+## ✨Run Locally
 
 Clone the project
 
